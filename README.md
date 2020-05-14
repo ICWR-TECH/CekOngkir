@@ -13,3 +13,5 @@ Cek ongkir bersumber dari rajaongkir.com
 <img src="Screenshot from 2020-05-14 16-21-49.png">
 <br><br>
 <img src="Screenshot from 2020-05-14 16-21-59.png">
+<br><br>
+Thx:")
