@@ -2,7 +2,7 @@
   /*
   *NOTE: Khusus kurir JNE,POS,TIKI
   */
-  $key="0cab50a18cb0ee3e24157c6514942c1c";
+  $key="";
   //kota pertama
   $curl_ProvPertama = curl_init();
   curl_setopt_array($curl_ProvPertama, array(
