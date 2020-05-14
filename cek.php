@@ -1,5 +1,5 @@
 <?php
-  $key="0cab50a18cb0ee3e24157c6514942c1c";
+  $key="";
   //search province
   $curl = curl_init();
   curl_setopt_array($curl, array(
